@@ -1,3 +1,3 @@
 void mainv(void){
-	return null;
+	return -1S;
 }
